@@ -26,6 +26,8 @@
 * nodeJs调试
 * 动手写个爬虫
 * 动手写个命令行工具
+* macrotask 与 microtask
+* 开发一个mock-dev-server
 * express 源码解读
 * koa 源码解读
 
