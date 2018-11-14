@@ -26,6 +26,7 @@
 * nodeJs调试
 * 动手写个爬虫
 * 动手写个命令行工具
+* 动手写个脚手架
 * macrotask 与 microtask
 * 开发一个mock-dev-server
 * express 源码解读
@@ -52,6 +53,8 @@
 ### 正则
 
 * [正则总结](https://github.com/herofei/study/blob/master/%E6%AD%A3%E5%88%99/%E6%AD%A3%E5%88%99.md)
+* 正则回溯
+* 正则性能优化
 
 ### 算法与数据结构
 
