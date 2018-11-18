@@ -3,11 +3,11 @@
 
 ### JavaScript
 
-* JavaScript异步编程 -- callback(TODO)
-* JavaScript异步编程 -- Promise(TODO)
-* JavaScript异步编程 -- Generator(TODO)
-* JavaScript异步编程 -- async(TODO)
-* JavaScript异步编程 -- Observable(TODO)
+* JavaScript异步处理 -- callback(TODO)
+* JavaScript异步处理 -- Promise(TODO)
+* JavaScript异步处理 -- Generator(TODO)
+* JavaScript异步处理 -- async(TODO)
+* JavaScript异步处理 -- Observable(TODO)
 * JavaScript类继承(TODO)
 
 ### CSS
