@@ -31,8 +31,6 @@
 * 动手写个脚手架
 * macrotask 与 microtask
 * 开发一个mock-dev-server
-* express 源码解读
-* koa 源码解读
 
 ### 网络协议(TODO)
 
@@ -43,10 +41,11 @@
 
 ### 工作流及前端工程化(TODO)
 
-* git工作流及规范(TODO)
-* webpack总结(TODO)
-* babel总结(TODO)
-* ESlint总结(TODO)
+* git工作流及规范
+* webpack常用plugin和loader
+* webpack性能优化
+* babel总结
+* ESlint总结
 
 ### WEB安全(TODO)
 
@@ -60,7 +59,7 @@
 
 * [正则总结](https://github.com/herofei/study/blob/master/%E6%AD%A3%E5%88%99/%E6%AD%A3%E5%88%99.md)
 * [RegrexBuddy使用教程](https://github.com/herofei/study/blob/master/%E6%AD%A3%E5%88%99/regexBuddy%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
-* 正则回溯
+* [正则回溯](https://github.com/herofei/study/blob/master/%E6%AD%A3%E5%88%99/%E6%AD%A3%E5%88%99%E5%9B%9E%E6%BA%AF.md)
 * 正则性能优化
 
 ### 算法与数据结构
@@ -88,7 +87,5 @@
 ### 性能优化(TODO)
 
 * 内存泄漏定位及优化
-
-### 兼容性问题(TODO)
 
 ### 技术管理(TODO)
