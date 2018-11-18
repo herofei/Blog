@@ -21,7 +21,9 @@
 
 ### framework
 
-### nodeJs
+### 浏览器
+
+### nodeJs(TODO)
 
 * nodeJs调试
 * 动手写个爬虫
@@ -32,27 +34,32 @@
 * express 源码解读
 * koa 源码解读
 
-### 网络协议
+### 网络协议(TODO)
 
-* 常用请求动作与状态码(TODO)
 * http缓存机制(TODO)
+* 反向代理以及负载均衡
 * https(TODO)
 * http2.0(TODO)
 
-### 构造工具
+### 工作流及前端工程化(TODO)
 
+* git工作流及规范(TODO)
 * webpack总结(TODO)
 * babel总结(TODO)
 * ESlint总结(TODO)
 
-### WEB安全
+### WEB安全(TODO)
 
 * XSS
 * CSRF
+* 中间人攻击
+* sql注入
+* ddos
 
 ### 正则
 
 * [正则总结](https://github.com/herofei/study/blob/master/%E6%AD%A3%E5%88%99/%E6%AD%A3%E5%88%99.md)
+* RegrexBuddy使用教程
 * 正则回溯
 * 正则性能优化
 
@@ -61,7 +68,7 @@
 * [算法总结](https://github.com/herofei/study/blob/master/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E7%AE%97%E6%B3%95.md)
 * [数据结构总结](https://github.com/herofei/study/blob/master/%E7%AE%97%E6%B3%95%E5%92%8C%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 
-### 设计模式
+### 设计模式(TODO)
 
 * 单例模式
 * 工厂模式
@@ -78,13 +85,10 @@
 * 职责链模式
 * 中介者模式
 
-### 性能优化
+### 性能优化(TODO)
 
 * 内存泄漏定位及优化
 
+### 兼容性问题(TODO)
 
-
-
-
-
-
+### 技术管理(TODO)
